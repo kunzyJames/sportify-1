@@ -1,0 +1,5 @@
+
+GET  http://api.football-data.org/v2/competitions/2021/standings
+X-Auth-Token: 8c2703377c9c4f7f8363b4689ae9c2b3
+
+
